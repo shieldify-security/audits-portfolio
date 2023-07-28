@@ -11,12 +11,12 @@ Welcome to Shieldify Security - a web3 company providing professional smart cont
 
 Note: _All reports here are published with the consent of our clients._
 
-| Protocol                                    | Type                                                                            | Report link | Date      |
-| ------------------------------------------- | ------------------------------------------------------------------------------- | ----------- | --------- |
-| [PHI Material](https://philand.xyz/)        | NFT Metaverse Game                                                              | Soon        | July 2023 |
-| [Geode Finance](https://www.geode.fi/)      | DeFi, Decentralized & Liquid Staking Pools                                      | Soon        | June 2023 |
-| [Hubble Exchange](https://hubble.exchange/) | DEX, Multi-collateral / Cross-Margin Perpetual Futures protocol on Avalanche    | -           | -         |
-| [Gojuo NFT](https://gojuonft.io/)           | NFT, Uniquely generated poker cards with Japanese character in ERC-721 standard | Soon        | June 2023 |
+| ID  | Protocol                                    | Type                                                                            | Report link | Date      |
+| --- | ------------------------------------------- | ------------------------------------------------------------------------------- | ----------- | --------- |
+| 4   | [PHI Material](https://philand.xyz/)        | NFT Metaverse Game                                                              | Soon        | July 2023 |
+| 3   | [Geode Finance](https://www.geode.fi/)      | DeFi, Decentralized & Liquid Staking Pools                                      | Soon        | June 2023 |
+| 2   | [Hubble Exchange](https://hubble.exchange/) | DEX, Multi-collateral / Cross-Margin Perpetual Futures protocol on Avalanche    | -           | -         |
+| 1   | [Gojuo NFT](https://gojuonft.io/)           | NFT, Uniquely generated poker cards with Japanese character in ERC-721 standard | Soon        | June 2023 |
 
 <br>
 
