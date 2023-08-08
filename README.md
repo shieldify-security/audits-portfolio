@@ -13,8 +13,8 @@ Note: _All reports here are published with the consent of our clients._
 
 | ID  | Protocol                                    | Type                                                                            | Report link                                                  | Date      |
 |:---:|:-------------------------------------------:| ------------------------------------------------------------------------------- |:------------------------------------------------------------:|:---------:|
-| 4   | [PHI Material](https://philand.xyz/)        | NFT Metaverse Game                                                              | Soon                                                         | July 2023 |
-| 3   | [Geode Finance](https://www.geode.fi/)      | DeFi, Decentralized & Liquid Staking Pools                                      | [:page_facing_up:](reports/GeodeFinance-Security-Review.pdf) | June 2023 |
+| 4   | [PHI Material](https://philand.xyz/)        | NFT Metaverse Game                                                              | [📄](reports/PHIMaterial-Security-Review.pdf)                                     | July 2023 |
+| 3   | [Geode Finance](https://www.geode.fi/)      | DeFi, Decentralized & Liquid Staking Pools                                      | [📄](reports/GeodeFinance-Security-Review.pdf) | June 2023 |
 | 2   | [Hubble Exchange](https://hubble.exchange/) | DEX, Multi-collateral / Cross-Margin Perpetual Futures protocol on Avalanche    | -                                                            | -         |
 | 1   | [Gojuo NFT](https://gojuonft.io/) | NFT, Uniquely generated poker cards with Japanese character in ERC-721 standard | Soon                                                         | June 2023 |
 
