@@ -9,20 +9,23 @@ Welcome to Shieldify Security - a web3 company providing professional smart cont
 
 # Security Review Table
 
+Undisclosed protocol - Uniswap V3 fork
 Note: _All reports here are published with the consent of our clients._
 
-| ID  | Protocol                                    | Type                                                                            | Report link                                                  | Date      |
-|:---:|:-------------------------------------------:| ------------------------------------------------------------------------------- |:------------------------------------------------------------:|:---------:|
-| 4   | [PHI Material](https://philand.xyz/)        | NFT Metaverse Game                                                              | [📄](reports/PHIMaterial-Security-Review.pdf)                                     | July 2023 |
-| 3   | [Geode Finance](https://www.geode.fi/)      | DeFi, Decentralized & Liquid Staking Pools                                      | [📄](reports/GeodeFinance-Security-Review.pdf) | June 2023 |
-| 2   | [Hubble Exchange](https://hubble.exchange/) | DEX, Multi-collateral / Cross-Margin Perpetual Futures protocol on Avalanche    | -                                                            | -         |
-| 1   | [Gojuo NFT](https://gojuonft.io/) | NFT, Uniquely generated poker cards with Japanese character in ERC-721 standard | Soon                                                         | June 2023 |
+| ID  |                  Protocol                   | Type                                                                            |                  Report link                   |    Date     |
+| :-: | :-----------------------------------------: | ------------------------------------------------------------------------------- | :--------------------------------------------: | :---------: |
+|  6  |                 Undisclosed                 | -                                                                               |                       -                        | August 2023 |
+|  5  |                 Undisclosed                 | -                                                                               |                       -                        | August 2023 |
+|  4  |    [PHI Material](https://philand.xyz/)     | NFT Metaverse Game                                                              | [📄](reports/PHIMaterial-Security-Review.pdf)  |  July 2023  |
+|  3  |   [Geode Finance](https://www.geode.fi/)    | DeFi, Decentralized & Liquid Staking Pools                                      | [📄](reports/GeodeFinance-Security-Review.pdf) |  June 2023  |
+|  2  | [Hubble Exchange](https://hubble.exchange/) | DEX, Multi-collateral / Cross-Margin Perpetual Futures protocol on Avalanche    |                       -                        |      -      |
+|  1  |      [Gojuo NFT](https://gojuonft.io/)      | NFT, Uniquely generated poker cards with Japanese character in ERC-721 standard |                       -                        |  June 2023  |
 
 <br>
 
 # Our Contacts
 
- [![Website URL](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://shieldify.org/)
- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ShieldifySec)
- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/shieldify-security/)
- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/researcherShieldify)
+[![Website URL](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://shieldify.org/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ShieldifySec)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/shieldify-security/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/researcherShieldify)
