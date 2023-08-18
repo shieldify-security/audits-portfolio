@@ -23,8 +23,7 @@ Note: _All reports here are published with the consent of our clients._
 <br>
 
 # Our Contacts
-
-[![Website URL](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://shieldify.org/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ShieldifySec)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/shieldify-security/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/researcherShieldify)
+  [![Website](https://github.com/shieldify-security/audits-portfolio/assets/37236239/18f2fbfb-6baa-4fb8-a826-7873d6f1ae9f)](https://shieldify.org/)
+  [![Twitter](https://github.com/shieldify-security/audits-portfolio/assets/37236239/90ee4c96-ff71-467a-a95e-db4ae032ef9f)](https://twitter.com/ShieldifySec)
+  [![LinkedIn](https://github.com/shieldify-security/audits-portfolio/assets/37236239/3b35602f-4fc4-4692-829c-0d32c130eee4)](https://www.linkedin.com/company/shieldify-security/)
+  [![Telegram](https://github.com/shieldify-security/audits-portfolio/assets/37236239/19a1c5af-5fd7-47ec-809e-8f0d0e5b72eb)](https://telegram.me/researcherShieldify)
