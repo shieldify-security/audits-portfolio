@@ -9,7 +9,6 @@ Welcome to Shieldify Security - a web3 company providing professional smart cont
 
 # Security Review Table
 
-Undisclosed protocol - Uniswap V3 fork
 Note: _All reports here are published with the consent of our clients._
 
 | ID  |                   Protocol                   | Type                                                                            |                     Report link                      |    Date     |
