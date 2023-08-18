@@ -23,15 +23,14 @@ Note: _All reports here are published with the consent of our clients._
 <br>
 
 # Our Contacts
-<a href="https://shieldify.org/" style="text-decoration: none;">
-  <img src="https://github.com/shieldify-security/audits-portfolio/assets/37236239/18f2fbfb-6baa-4fb8-a826-7873d6f1ae9f" alt="Website" style="vertical-align: middle; margin-right: 10px;">  
+
+<img src="https://github.com/shieldify-security/audits-portfolio/assets/37236239/18f2fbfb-6baa-4fb8-a826-7873d6f1ae9f" alt="Website"><a href="https://shieldify.org/" /></img>  
+<a href="https://twitter.com/ShieldifySec">
+  <img src="https://github.com/shieldify-security/audits-portfolio/assets/37236239/90ee4c96-ff71-467a-a95e-db4ae032ef9f" alt="Twitter" />  
 </a>
-<a href="https://twitter.com/ShieldifySec" style="text-decoration: none;">
-  <img src="https://github.com/shieldify-security/audits-portfolio/assets/37236239/90ee4c96-ff71-467a-a95e-db4ae032ef9f" alt="Twitter" style="vertical-align: middle; margin-right: 10px;">  
+<a href="https://www.linkedin.com/company/shieldify-security/">
+  <img src="https://github.com/shieldify-security/audits-portfolio/assets/37236239/3b35602f-4fc4-4692-829c-0d32c130eee4" alt="LinkedIn" />  
 </a>
-<a href="https://www.linkedin.com/company/shieldify-security/" style="text-decoration: none;">
-  <img src="https://github.com/shieldify-security/audits-portfolio/assets/37236239/3b35602f-4fc4-4692-829c-0d32c130eee4" alt="LinkedIn" style="vertical-align: middle; margin-right: 10px;">  
-</a>
-<a href="https://telegram.me/researcherShieldify" style="text-decoration: none;">
-  <img src="https://github.com/shieldify-security/audits-portfolio/assets/37236239/19a1c5af-5fd7-47ec-809e-8f0d0e5b72eb" alt="Telegram" style="vertical-align: middle; margin-right: 10px;">  
+<a href="https://telegram.me/researcherShieldify">
+  <img src="https://github.com/shieldify-security/audits-portfolio/assets/37236239/19a1c5af-5fd7-47ec-809e-8f0d0e5b72eb" alt="Telegram" />  
 </a>
