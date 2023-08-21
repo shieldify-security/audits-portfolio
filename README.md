@@ -13,7 +13,7 @@ Note: _All reports here are published with the consent of our clients._
 
 | ID  |                   Protocol                   | Type                                                                            |                     Report link                      |    Date     |
 | :-: | :------------------------------------------: | ------------------------------------------------------------------------------- | :--------------------------------------------------: | :---------: |
-|  6  |                 Raptures Web3 Wallet                   | ERC-4337, Account Abstraction Mechanism                                                                             |                          -                           | August 2023 |
+|  6  |             Raptures Web3 Wallet             | ERC-4337, Account Abstraction Mechanism                                         |                          -                           | August 2023 |
 |  5  |                 Undisclosed                  | -                                                                               |                          -                           | August 2023 |
 |  4  | [GojuoNFT & ZKojuoNFT](https://gojuonft.io/) | NFT, Uniquely generated poker cards with Japanese character in ERC-721 standard | [📄](reports/GojuoNFT-ZKojuoNFT-Security-Review.pdf) | August 2023 |
 |  3  |     [PHI Material](https://philand.xyz/)     | NFT Metaverse Game                                                              |    [📄](reports/PHIMaterial-Security-Review.pdf)     |  July 2023  |
@@ -24,7 +24,7 @@ Note: _All reports here are published with the consent of our clients._
 
 # Our Contacts
 
- [![Website URL](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://shieldify.org/)
- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ShieldifySec)
- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/shieldify-security/)
- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/researcherShieldify)
+[![Website URL](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://shieldify.org/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ShieldifySec)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/shieldify-security/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/researcherShieldify)
