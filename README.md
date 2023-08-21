@@ -13,12 +13,12 @@ Note: _All reports here are published with the consent of our clients._
 
 | ID  |                   Protocol                   | Type                                                                            |                     Report link                      |    Date     |
 | :-: | :------------------------------------------: | ------------------------------------------------------------------------------- | :--------------------------------------------------: | :---------: |
-|  6  |             Raptures Web3 Wallet             | ERC-4337, Account Abstraction Mechanism                                         |                          -                           | August 2023 |
+|  6  |             Raptures Web3 Wallet             | ERC-4337, Account Abstraction Mechanism                                         |                       Private                        | August 2023 |
 |  5  |                 Undisclosed                  | -                                                                               |                          -                           | August 2023 |
 |  4  | [GojuoNFT & ZKojuoNFT](https://gojuonft.io/) | NFT, Uniquely generated poker cards with Japanese character in ERC-721 standard | [📄](reports/GojuoNFT-ZKojuoNFT-Security-Review.pdf) | August 2023 |
 |  3  |     [PHI Material](https://philand.xyz/)     | NFT Metaverse Game                                                              |    [📄](reports/PHIMaterial-Security-Review.pdf)     |  July 2023  |
 |  2  |    [Geode Finance](https://www.geode.fi/)    | DeFi, Decentralized & Liquid Staking Pools                                      |    [📄](reports/GeodeFinance-Security-Review.pdf)    |  June 2023  |
-|  1  | [Hubble Exchange](https://hubble.exchange/)  | DEX, Multi-collateral / Cross-Margin Perpetual Futures protocol on Avalanche    |                          -                           |      -      |
+|  1  | [Hubble Exchange](https://hubble.exchange/)  | DEX, Multi-collateral / Cross-Margin Perpetual Futures protocol on Avalanche    |                       Private                        |      -      |
 
 <br>
 
