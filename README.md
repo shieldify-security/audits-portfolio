@@ -13,6 +13,7 @@ Note: _All reports here are published with the consent of our clients._
 
 | ID  |                   Protocol                   | Type                                                                            |                     Report link                      |      Date      |
 | :-: | :------------------------------------------: | ------------------------------------------------------------------------------- | :--------------------------------------------------: | :------------: |
+|  8  |                 Undisclosed                  | Soon                                                                            |                         Soon                         |  October 2023  |
 |  7  |                 Undisclosed                  | Soon                                                                            |                         Soon                         | September 2023 |
 |  6  |             Raptures Web3 Wallet             | ERC-4337, Account Abstraction Mechanism                                         |                       Private                        |  August 2023   |
 |  5  |                 Undisclosed                  | Soon                                                                            |                         Soon                         |  August 2023   |
