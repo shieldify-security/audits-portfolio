@@ -13,6 +13,7 @@ Note: _All reports here are published with the consent of our clients._
 
 | ID  |                               Protocol                                | Type                                                                            |                     Report link                      |      Date      |
 | :-: | :-------------------------------------------------------------------: | ------------------------------------------------------------------------------- | :--------------------------------------------------: | :------------: |
+| 11  |                              Undisclosed                              | Soon                                                                            |                         Soon                         |  October 2023  |
 | 10  |                              Undisclosed                              | Soon                                                                            |                         Soon                         |  October 2023  |
 |  9  |                [Dark Mythos](https://dark-mythos.com/)                | ERC-721 collection                                                              |                         Soon                         | September 2023 |
 |  8  |                [Geode Finance](https://www.geode.fi/)                 | DeFi, Decentralized & Liquid Staking Pools (Withdrawal-Module) - Second Review  |                         Soon                         | September 2023 |
