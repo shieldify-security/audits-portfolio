@@ -2,7 +2,9 @@
 
 # Public Portfolio
 
-Welcome to Shieldify Security - a web3 company providing professional smart contract security auditing services for decentralized protocols. Our team of three experienced security engineers is dedicated to fortifying the ecosystem by ensuring the utmost security, cost-efficiency, and user-friendliness of our customers. With a track record of contributing some of the more ambitious blockchain projects with multimillion-dollar market capitalizations, we are poised to safeguard the decentralized revolution with top-tier expertise and dedication.
+Welcome to Shieldify Security - Revolutionizing Web3 Security. Elevating standards with top-tier reports, a uniques subscription based model and private bug bounty pools.
+
+Fluent in: Solidity, Rust, Cairo and Go
 
 <hr>
 <br>
