@@ -6,6 +6,8 @@ Welcome to Shieldify Security - Revolutionizing Web3 Security. Elevating standar
 
 Fluent in: Solidity, Rust, Cairo and Go
 
+Learn more about us: [here](https://shieldify.org/)
+
 <hr>
 <br>
 
@@ -34,7 +36,33 @@ Note: _All reports here are published with the consent of our clients._
 
 # Our Contacts
 
-[![Website URL](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://shieldify.org/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ShieldifySec)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/shieldify-security/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/researcherShieldify)
+<div class="social-icon-wrapper">
+
+<a href="https://twitter.com/ShieldifySec" target="_blank" class="w-inline-block">
+    <img src="https://assets-global.website-files.com/649bd5b9976f3a3f951d50c2/64e456dd14f5229268d902d8_twitter-2.svg" loading="lazy" alt="" class="social-icon">
+</a>
+
+<a href="https://telegram.me/researcherShieldify" target="_blank" class="w-inline-block">
+    <img src="https://assets-global.website-files.com/649bd5b9976f3a3f951d50c2/64a9046f04ca7c8ef6315963_telegram.svg" loading="lazy" alt="" class="social-icon">
+</a>
+
+<a href="https://www.linkedin.com/company/shieldify-security/" target="_blank" class="w-inline-block">
+    <img src="https://assets-global.website-files.com/649bd5b9976f3a3f951d50c2/64a9045f08bfaa50ce6c6d78_linkedin%20(1).svg" loading="lazy" alt="" class="social-icon">
+</a>
+
+</div>
+
+<style>
+.social-icon-wrapper {
+    display: flex;
+    align-items: center;
+}
+
+.social-icon {
+    margin-right: 15px;
+    width: 55px;
+    height: 55px;
+    border-radius: 0.5rem;
+    border: 2px solid #000;
+}
+</style>
