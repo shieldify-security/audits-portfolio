@@ -36,33 +36,6 @@ Note: _All reports here are published with the consent of our clients._
 
 # Our Contacts
 
-<div class="social-icon-wrapper">
-
-<a href="https://twitter.com/ShieldifySec" target="_blank" class="w-inline-block">
-    <img src="https://assets-global.website-files.com/649bd5b9976f3a3f951d50c2/64e456dd14f5229268d902d8_twitter-2.svg" loading="lazy" alt="" class="social-icon">
-</a>
-
-<a href="https://telegram.me/researcherShieldify" target="_blank" class="w-inline-block">
-    <img src="https://assets-global.website-files.com/649bd5b9976f3a3f951d50c2/64a9046f04ca7c8ef6315963_telegram.svg" loading="lazy" alt="" class="social-icon">
-</a>
-
-<a href="https://www.linkedin.com/company/shieldify-security/" target="_blank" class="w-inline-block">
-    <img src="https://assets-global.website-files.com/649bd5b9976f3a3f951d50c2/64a9045f08bfaa50ce6c6d78_linkedin%20(1).svg" loading="lazy" alt="" class="social-icon">
-</a>
-
-</div>
-
-<style>
-.social-icon-wrapper {
-    display: flex;
-    align-items: center;
-}
-
-.social-icon {
-    margin-right: 15px;
-    width: 55px;
-    height: 55px;
-    border-radius: 0.5rem;
-    border: 2px solid #000;
-}
-</style>
+[X (Twitter)](https://twitter.com/ShieldifySec),
+[Telegram](https://telegram.me/researcherShieldify),
+[LinkedIn](https://www.linkedin.com/company/shieldify-security/)
