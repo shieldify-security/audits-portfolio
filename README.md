@@ -6,8 +6,6 @@ Welcome to Shieldify Security - Revolutionizing Web3 Security. Elevating standar
 
 Learn more about us: [here](https://shieldify.org/)
 
-<br>
-
 # Security Review Table
 
 Note: _All reports here are published with the consent of our clients._
