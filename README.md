@@ -4,11 +4,8 @@
 
 Welcome to Shieldify Security - Revolutionizing Web3 Security. Elevating standards with top-tier reports, a uniques subscription based model and private bug bounty pools.
 
-Fluent in: Solidity, Rust, Cairo and Go
-
 Learn more about us: [here](https://shieldify.org/)
 
-<hr>
 <br>
 
 # Security Review Table
