@@ -1,4 +1,4 @@
-![shieldify-wordmark](https://github.com/shieldify-security/audits-portfolio/assets/133656516/2e532570-42cc-44c5-be61-fec9437aec70)
+![shieldify-wordmark](https://github.com/shieldify-security/audits-portfolio/assets/133656516/45649c92-117b-49d9-bfaa-2d75bbc87cc6)
 
 # Public Portfolio
 
