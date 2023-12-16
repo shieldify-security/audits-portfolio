@@ -12,7 +12,7 @@ Note: _All reports here are published with the consent of our clients._
 
 | ID  |                               Protocol                                | Type                                                                               |                     Report link                      |      Date      |
 | :-: | :-------------------------------------------------------------------: | ---------------------------------------------------------------------------------- | :--------------------------------------------------: | :------------: |
-| 16  |                              Undisclosed                              | ERC-4337, Account abstraction SDK                                                  |                         Soon                         |  January 2024  |
+| 16  |                              Undisclosed                              | ERC-4337, Account Abstraction SDK                                                  |                         Soon                         |  January 2024  |
 | 15  |                              Undisclosed                              | Soon                                                                               |                         Soon                         | December 2023  |
 | 14  |                [Dark Mythos](https://dark-mythos.com/)                | ERC-721 collection - Second Review                                                 |                         Soon                         | December 2023  |
 | 13  |                   [Ambire](https://www.ambire.com/)                   | Smart wallet                                                                       |                       Private                        | November 2023  |
