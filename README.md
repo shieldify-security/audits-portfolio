@@ -12,7 +12,7 @@ Note: _All reports here are published with the consent of our clients._
 
 | ID  |                               Protocol                                | Type                                                                              |                     Report link                      |      Date      |
 | :-: | :-------------------------------------------------------------------: | --------------------------------------------------------------------------------- | :--------------------------------------------------: | :------------: |
-| 18  |                              Undisclosed                              | Soon                                                                              |                         Soon                         |  January 2024  |
+| 18  |           [SteakHut Finance](https://www.steakhut.finance/)           | DeFi, Liquidity Provider, CLMMs                                                   |                         Soon                         |  January 2024  |
 | 17  |              [Bastion Wallet](https://bastionwallet.io/)              | ERC-4337, Account Abstraction SDK                                                 |                         Soon                         |  January 2024  |
 | 16  |               [Possum Labs](https://www.possumlabs.io/)               | DeFi, Staking and token conversion - SPP                                          |                         Soon                         | December 2023  |
 | 15  |               [Haptic Finance](https://haptic.finance/)               | DeFi, Permissionless option markets, AMM, Uniswap V3’s liquidity providers        |                          -                           | December 2023  |
