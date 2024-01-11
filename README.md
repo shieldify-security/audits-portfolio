@@ -2,7 +2,7 @@
 
 # Public Portfolio
 
-Welcome to Shieldify Security - Revolutionizing Web3 Security. Elevating standards with top-tier reports, a uniques subscription based model and private bug bounty pools.
+Welcome to Shieldify Security - Revolutionizing Web3 Security. Elevating standards with top-tier reports, a unique subscription based model and private bug bounty pools.
 
 Learn more about us: [here](https://shieldify.org/)
 
