@@ -12,6 +12,7 @@ Note: _All reports here are published with the consent of our clients._
 
 | ID  |                               Protocol                                | Type                                                                              |                     Report link                      |      Date      |
 | :-: | :-------------------------------------------------------------------: | --------------------------------------------------------------------------------- | :--------------------------------------------------: | :------------: |
+| 20  |                              Undisclosed                              | Soon                                                                              |                         Soon                         | February 2024  |
 | 19  |                 [Pear Labs](https://www.pear.garden/)                 | DEX, On-Chain Pairs Trading                                                       |                         Soon                         |  January 2024  |
 | 18  |           [SteakHut Finance](https://www.steakhut.finance/)           | DeFi, Liquidity Provider, CLMMs                                                   |                         Soon                         |  January 2024  |
 | 17  |              [Bastion Wallet](https://bastionwallet.io/)              | ERC-4337, Account Abstraction SDK                                                 |                         Soon                         |  January 2024  |
