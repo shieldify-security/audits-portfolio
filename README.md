@@ -12,6 +12,7 @@ Note: _All reports here are published with the consent of our clients._
 
 | ID  |                                  Protocol                                  | Type                                                                              |                     Report link                      |      Date      |
 | :-: | :------------------------------------------------------------------------: | --------------------------------------------------------------------------------- | :--------------------------------------------------: | :------------: |
+| 21  | Soon | Soon                            |                         Soon                    | February 2024  |
 | 20  | [ERC-6492 - Signature Validation](https://eips.ethereum.org/EIPS/eip-6492) | ERC-6492, Signature Validation for Predeploy Contracts                            |                         Soon                         | February 2024  |
 | 19  |                   [Pear Labs](https://www.pear.garden/)                    | DEX, On-Chain Pairs Trading                                                       |                         Soon                         |  January 2024  |
 | 18  |             [SteakHut Finance](https://www.steakhut.finance/)              | DeFi, Liquidity Provider, CLMMs                                                   |                         Soon                         |  January 2024  |
