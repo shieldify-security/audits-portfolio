@@ -2,9 +2,15 @@
 
 # Public Portfolio
 
-Welcome to Shieldify Security - Revolutionizing Web3 Security. Elevating standards with a unique subscription model that grants the customer unlimited audits within the subscription period!
+Positioned as the first hybrid Web3 Security company, Shieldify shakes things up with a unique subscription-based auditing model that entitles the customer unlimited audits within its duration, as well as top-notch service quality thanks to a disruptive 6-layered security approach. The company works with renowned names in the web3 security space and can audit codebase written in Solidity, Vyper, Rust, Cairo and Go.
 
 Learn more about us: [here](https://shieldify.org/)
+
+# Contacts
+
+[X (Twitter)](https://twitter.com/ShieldifySec),
+[Telegram](https://telegram.me/researcherShieldify),
+[LinkedIn](https://www.linkedin.com/company/shieldify-security/)
 
 # Security Review Table
 
@@ -19,7 +25,7 @@ Note: _All reports here are published with the consent of our clients._
 | 20  |          [ERC-6492](https://eips.ethereum.org/EIPS/eip-6492)          | ERC-6492, Signature Validation for Predeploy Contracts                            |                          -                           | February 2024  |
 | 19  |                 [Pear Labs](https://www.pear.garden/)                 | DEX, On-Chain Pairs Trading                                                       |                         Soon                         |  January 2024  |
 | 18  |         [SteakHut Finance V2](https://www.steakhut.finance/)          | DeFi, Liquidity Provider, CLMMs                                                   |      [📄](reports/SteakHut-Security-Review.pdf)      |  January 2024  |
-| 17  |              [Bastion Wallet](https://bastionwallet.io/)              | ERC-4337, Account Abstraction SDK                                                 |                         Soon                         |  January 2024  |
+| 17  |              [Bastion Wallet](https://bastionwallet.io/)              | ERC-4337, Account Abstraction SDK                                                 |  [📄](reports/BastionWallet-SM-Security-Review.pdf)  |  January 2024  |
 | 16  |               [Possum Labs](https://www.possumlabs.io/)               | DeFi, Staking and token conversion                                                |                          -                           | December 2023  |
 | 15  |               [Haptic Finance](https://haptic.finance/)               | DeFi, Permissionless option markets, AMM, Uniswap V3’s liquidity providers        |                         Soon                         | December 2023  |
 | 14  |                [Dark Mythos](https://dark-mythos.com/)                | ERC-721 collection - Second Review                                                | [📄](reports/DarkMythos-Second-Security-Review.pdf)  | December 2023  |
@@ -36,11 +42,3 @@ Note: _All reports here are published with the consent of our clients._
 |  3  |            [PHI Material - Philand](https://philand.xyz/)             | ERC-1155, ERC-2771Context, NFT Metaverse Game                                     |    [📄](reports/PHIMaterial-Security-Review.pdf)     |   July 2023    |
 |  2  |              [Hubble Exchange](https://hubble.exchange/)              | DEX, Multi-collateral / Cross-Margin Perpetual Futures protocol on Avalanche      |                          -                           |   July 2023    |
 |  1  |                [Geode Finance](https://www.geode.fi/)                 | DeFi, Decentralized & Liquid Staking Pools                                        |    [📄](reports/GeodeFinance-Security-Review.pdf)    |   June 2023    |
-
-<br>
-
-# Our Contacts
-
-[X (Twitter)](https://twitter.com/ShieldifySec),
-[Telegram](https://telegram.me/researcherShieldify),
-[LinkedIn](https://www.linkedin.com/company/shieldify-security/)
