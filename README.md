@@ -18,6 +18,7 @@ Note: _All reports here are published with the consent of our clients._
 
 | ID  |                               Protocol                                | Type                                                                              |                     Report link                      |      Date      |
 | :-: | :-------------------------------------------------------------------: | --------------------------------------------------------------------------------- | :--------------------------------------------------: | :------------: |
+| 25  |                              Undisclosed                              | Soon                                                                              |                         Soon                         |   March 2024   |
 | 24  |                              Undisclosed                              | Soon                                                                              |                         Soon                         |   March 2024   |
 | 23  |             [Possum Labs V2](https://www.possumlabs.io/)              | DeFi, Stake yield-bearing assets and receive instant upfront yield                |                         Soon                         |   March 2024   |
 | 22  |                              Undisclosed                              | Soon                                                                              |                         Soon                         | February 2024  |
