@@ -1,5 +1,3 @@
-![shieldify-wordmark](https://github.com/shieldify-security/audits-portfolio/assets/133656516/4b4d9623-c3ba-482f-ba6e-6c619bd61e9d)
-
 # Public Portfolio
 
 Positioned as the first hybrid Web3 Security company, Shieldify shakes things up with a unique subscription-based auditing model that entitles the customer to unlimited audits within its duration, as well as top-notch service quality thanks to a disruptive 6-layered security approach. The company works with very well-established researchers in the space and have secured multiple millions in TVL across protocols, also can audit codebases written in Solidity, Vyper, Rust, Cairo, Move and Go.
