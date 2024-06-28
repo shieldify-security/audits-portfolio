@@ -12,8 +12,6 @@ Learn more about us: [here](https://shieldify.org/)
 
 # Security Review Table
 
-Note: _All reports here are published with the consent of our clients._
-
 | ID  |                               Protocol                                | Type                                                                                                                    |                      Report link                      |      Date      |
 | :-: | :-------------------------------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------: | :------------: |
 | 45  |                              Undisclosed                              |                                                                                                                         |                                                       |   July 2024    |
@@ -21,7 +19,7 @@ Note: _All reports here are published with the consent of our clients._
 | 43  |                              Undisclosed                              |                                                                                                                         |                                                       |   June 2024    |
 | 42  |               [Colb Finance](https://www.colb.finance/)               | ERC20, Migration contract - Burns old tokens and mints new tokens                                                       |                           -                           |   June 2024    |
 | 41  |               [Virtual Labs](https://www.virtual.tech/)               |                                                                                                                         |                                                       |   June 2024    |
-| 40  |                 [Pear Labs](https://www.pear.garden/)                 |                                                                                                                         |                                                       |   June 2024    |
+| 40  |               [Pear Labs V2](https://www.pear.garden/)                | DEX, On-Chain Pairs Trading                                                                                             |                                                       |   June 2024    |
 | 39  |                  [DYAD](https://www.dyadstable.xyz/)                  | DEX, First Capital Efficient Overcollateralized Stablecoin                                                              |        [📄](reports/Dyad-Security-Review.pdf)         |    May 2024    |
 | 38  |                [Harvest Flow](https://harvestflow.io/)                | NFT Lending Protocol                                                                                                    |                         Soon                          |    May 2024    |
 | 37  |                [Zaros - Token](https://www.zaros.fi/)                 | ZRS sticks to the ERC-20 standard and serves as the utility token for Zaros                                             |     [📄](reports/Zaros-Token-Security-Review.pdf)     |    May 2024    |
