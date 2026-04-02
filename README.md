@@ -10,6 +10,45 @@ Learn more about us: [here](https://shieldify.org/)
 [Telegram](https://telegram.me/researcherShieldify),
 [LinkedIn](https://www.linkedin.com/company/shieldify-security/)
 
+# Testimonials
+
+<table>
+<tr>
+<td width="50%" align="center">
+<br/>
+<em>"Shieldify Security helped us make sure our smart contract is stable and secure in a record amount of time. Their team is incredibly efficient, professional and an absolute pleasure to work with.
+
+We highly recommend choosing Shieldify Securify for all your Web3 security needs!"</em><br/><br/>
+<img src="./logos/tollan-universe.jpg" width="30" height="30" style="border-radius:50%" alt="avatar"/>
+<br/><strong>Michael Kuvshynov, CEO - Tollan Universe</strong>
+</td>
+<td width="50%" align="center">
+<br/>
+<em>"Loved working with Shiedify Security, the quick turnaround and comprehensive review were much appreciated."</em><br/><br/>
+<img src="./logos/dinero.png" width="30" height="30" style="border-radius:50%" alt="avatar"/>
+<br/><strong>Never, CEO - Dinero</strong>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<br/>
+<em>"We recently engaged Shieldify to audit our smart contracts, and we couldn't be more satisfied with their service. Their team demonstrated expertise and thoroughness throughout the audit process, ensuring that every aspect of our contracts was meticulously reviewed and secured.
+
+We highly recommend Shieldify for anyone seeking top-notch auditing services and will definitely turn to them for our future needs."</em><br/><br/>
+<img src="./logos/etherspot.jpg" width="30" height="30" style="border-radius:50%" alt="avatar"/>
+<br /><strong>Partha, CEO - Etherspot</strong>
+</td>
+<td width="50%" align="center">
+<br/>
+<em>"Worked with the lads at Shieldify multiple times already, and I was always satisfied. They are probably my go-to security company at the moment. 
+
+They are proactive, fast, and always willing to find solutions. Highly Recommend."</em><br/><br/>
+<img src="./logos/stormae.jpg" width="30" height="30" style="border-radius:50%" alt="avatar"/>
+<br /><strong>Sorin, CEO - Stormae</strong>
+</td>
+</tr>
+</table>
+
 # Security Review Table
 
 | ID  |                                  Protocol                                   |                                                                          Description                                                                           |        Type         |                              Report link                               |      Date      |
